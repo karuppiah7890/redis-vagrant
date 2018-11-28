@@ -1,4 +1,4 @@
-sudo apt install make gcc
+sudo apt install make gcc tcl -y
 curl -o redis-5.0.2.tar.gz http://download.redis.io/releases/redis-5.0.2.tar.gz
 tar xvzf redis-5.0.2.tar.gz
 cd redis-5.0.2
